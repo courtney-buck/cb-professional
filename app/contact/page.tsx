@@ -12,10 +12,10 @@ export default function ContactPage() {
           
           <div className="grid md:grid-cols-2 gap-12">
             <div>
-              <h2 className="text-2xl font-semibold mb-6">Let's Connect</h2>
+              <h2 className="text-2xl font-semibold mb-6">Let&apos;s Connect</h2>
               <p className="text-gray-700 leading-relaxed mb-8">
                 Interested in exploring how AI and human potential can intersect 
-                in your organization? Let's start a conversation about co-learning 
+                in your organization? Let&apos;s start a conversation about co-learning 
                 and strategic implementation.
               </p>
               
@@ -44,9 +44,9 @@ export default function ContactPage() {
               
               <div className="mt-6 pt-6 border-t border-gray-200">
                 <p className="text-sm text-gray-600 italic">
-                  "Both efficiency and humanity.<br />
+                  &ldquo;Both efficiency and humanity.<br />
                   Both AI and EQ.<br />
-                  Both systems and soul."
+                  Both systems and soul.&rdquo;
                 </p>
               </div>
             </div>

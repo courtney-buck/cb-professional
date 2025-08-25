@@ -76,7 +76,7 @@ export default function StudioPage() {
             </h2>
             <div className="bg-rose-100 rounded-2xl p-12">
               <p className="text-2xl font-light text-gray-800 leading-relaxed">
-                "I believe in both efficiency and humanity. Both AI and EQ. Both systems and soul."
+                &ldquo;I believe in both efficiency and humanity. Both AI and EQ. Both systems and soul.&rdquo;
               </p>
             </div>
           </div>

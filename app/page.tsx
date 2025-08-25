@@ -14,7 +14,7 @@ export default function HomePage() {
             Building at the intersection of technology and human potential
           </p>
           <p className="text-lg text-gray-700 mb-8 max-w-2xl">
-            Founder of Studio Both/And, a systems-first consultancy that embraces the power of both efficiency and humanity. I'm a generalist who believes in the magic that happens when we bridge different worlds.
+            Founder of Studio Both/And, a systems-first consultancy that embraces the power of both efficiency and humanity. I&apos;m a generalist who believes in the magic that happens when we bridge different worlds.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <button className="bg-gray-900 text-white px-8 py-3 rounded-lg hover:bg-gray-800 transition-colors duration-200 font-medium">
@@ -91,7 +91,7 @@ export default function HomePage() {
         <section className="max-w-4xl mx-auto px-6 py-16">
           <div className="bg-rose-100 rounded-2xl p-12 text-center">
             <p className="text-2xl font-light text-gray-800 leading-relaxed">
-              "I believe in both efficiency and humanity. Both AI and EQ. Both systems and soul."
+              &ldquo;I believe in both efficiency and humanity. Both AI and EQ. Both systems and soul.&rdquo;
             </p>
           </div>
         </section>
